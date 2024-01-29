@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-Welcome to the Project Inception phase of the Product Recommendation System. This README provides an overview of our ML system scoping, detailing the business case, the value of using ML, data requirements, metrics for evaluation, and baselines.
+Welcome to the Project Inception phase of the Product Recommendation System. This README provides an overview of my ML system scoping, detailing the business case, the value of using ML, data requirements, metrics for evaluation, and baselines.
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@ The data will undergo preprocessing steps to handle missing values, perform norm
 
 ### Rationale
 
-These metrics align with our business goals of providing accurate and comprehensive recommendations to users.
+These metrics align with my business goals of providing accurate and comprehensive recommendations to users.
 
 ## Baselines
 
@@ -72,9 +72,9 @@ We aim to outperform existing systems by achieving higher precision, recall, and
 
 Detailed instructions on running the system, making predictions, and interacting with the recommendation engine can be found in the [Usage](#usage) section.
 
-## Contributing
+;; ## Contributing
 
-We welcome contributions! If you would like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+;; We welcome contributions! If you would like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
