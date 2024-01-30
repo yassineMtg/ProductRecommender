@@ -24,6 +24,10 @@ To understand the project's inception and goals, read through the sections below
 
 ## ML Problem Specification
 
+### Model Card
+
+[https://huggingface.co/anushakamath/product_recommendation](https://huggingface.co/anushakamath/product_recommendation)
+
 ### Business Case Description
 
 The Product Recommendation System addresses the need for personalized product recommendations in an e-commerce setting. Users often face challenges in discovering products suited to their preferences among a vast array of options. This system aims to enhance user experience by providing tailored recommendations based on historical interactions.
