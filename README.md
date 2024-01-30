@@ -26,7 +26,7 @@ To understand the project's inception and goals, read through the sections below
 
 ### Model Card
 
-[https://huggingface.co/anushakamath/product_recommendation](https://huggingface.co/anushakamath/product_recommendation)
+[link](https://huggingface.co/anushakamath/product_recommendation)
 
 ### Business Case Description
 
