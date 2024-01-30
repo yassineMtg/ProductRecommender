@@ -24,7 +24,7 @@ To understand the project's inception and goals, read through the sections below
 
 ## ML Problem Specification
 
-#### Model Card
+### Model Card
 
 [https://huggingface.co/anushakamath/product_recommendation](https://huggingface.co/anushakamath/product_recommendation)
 
