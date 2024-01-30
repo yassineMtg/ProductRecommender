@@ -24,9 +24,9 @@ To understand the project's inception and goals, read through the sections below
 
 ## ML Problem Specification
 
-### Model Card
+#### Model Card
 
-[link](https://huggingface.co/anushakamath/product_recommendation)
+[https://huggingface.co/anushakamath/product_recommendation](https://huggingface.co/anushakamath/product_recommendation)
 
 ### Business Case Description
 
