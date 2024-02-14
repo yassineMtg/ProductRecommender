@@ -73,14 +73,6 @@ Our goal is to surpass these methods by improving precision, recall, and F1 scor
 
 To start using the Product Recommendation System, follow the setup instructions detailed in the [Getting Started](#getting-started) section.
 
-## Usage
-
-For instructions on running the system and interacting with the recommendation engine, see the [Usage](#usage) section.
-
-## Contributing
-
-Contributions to the Product Recommendation System are welcome. Please refer to the [Contributing](#contributing) guidelines for more information.
-
 ## License
 
 This project is available under the [MIT License](LICENSE), supporting open and collaborative development.
